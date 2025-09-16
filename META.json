@@ -1,0 +1,61 @@
+{
+  "category": "artifact-repositories",
+  "created_date": "2025-09-15T22:48:58.385081",
+  "default_ports": [
+    80,
+    443,
+    8081
+  ],
+  "dependencies": [],
+  "description": "nexus is a free and open-source repository manager. Sonatype Nexus manages binaries and build artifacts across your software supply chain",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/artifact-repositories/nexus",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/artifact-repositories/nexus",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.385099",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "nexus",
+  "repository_url": "https://github.com/howtomgr/nexus",
+  "spec_version": "2.0",
+  "subcategory": "artifact-repositories",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "artifact-repositories",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "nexus Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/artifact-repositories/nexus"
+}
